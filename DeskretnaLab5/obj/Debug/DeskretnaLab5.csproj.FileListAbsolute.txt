@@ -1,0 +1,10 @@
+C:\Users\lyosh\source\repos\DeskretnaLab5\DeskretnaLab5\obj\Debug\DeskretnaLab5.csprojAssemblyReference.cache
+C:\Users\lyosh\source\repos\DeskretnaLab5\DeskretnaLab5\obj\Debug\DeskretnaLab5.Form1.resources
+C:\Users\lyosh\source\repos\DeskretnaLab5\DeskretnaLab5\obj\Debug\DeskretnaLab5.Properties.Resources.resources
+C:\Users\lyosh\source\repos\DeskretnaLab5\DeskretnaLab5\obj\Debug\DeskretnaLab5.csproj.GenerateResource.cache
+C:\Users\lyosh\source\repos\DeskretnaLab5\DeskretnaLab5\obj\Debug\DeskretnaLab5.csproj.CoreCompileInputs.cache
+C:\Users\lyosh\source\repos\DeskretnaLab5\DeskretnaLab5\bin\Debug\DeskretnaLab5.exe.config
+C:\Users\lyosh\source\repos\DeskretnaLab5\DeskretnaLab5\bin\Debug\DeskretnaLab5.exe
+C:\Users\lyosh\source\repos\DeskretnaLab5\DeskretnaLab5\bin\Debug\DeskretnaLab5.pdb
+C:\Users\lyosh\source\repos\DeskretnaLab5\DeskretnaLab5\obj\Debug\DeskretnaLab5.exe
+C:\Users\lyosh\source\repos\DeskretnaLab5\DeskretnaLab5\obj\Debug\DeskretnaLab5.pdb
